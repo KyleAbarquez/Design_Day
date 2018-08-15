@@ -173,12 +173,6 @@ z-index: 999999;
 }
 
 @media screen and (max-width: 540px) {
-    body {
-    }
-    
-    .btn-group {
-        margin-top: 0;
-    }
     
     #logo-img {
         max-width: 190px;
